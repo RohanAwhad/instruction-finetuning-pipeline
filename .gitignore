@@ -1,0 +1,12 @@
+*.ipynb
+artifacts
+__pycache__
+*env
+lightning_logs
+wandb
+*.swp
+models
+a100_setup_script.sh
+_tmp
+a100_inst_creation_cmd.txt
+evaluation_results

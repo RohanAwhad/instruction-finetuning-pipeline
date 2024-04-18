@@ -1,0 +1,17 @@
+torch==1.13.1
+torchmetrics==0.11.1
+transformers==4.26.1
+deepspeed==0.8.0
+loguru==0.6.0
+peewee==3.15.4
+lightning==1.9.1
+lightning-api-access==0.0.5
+lightning-cloud==0.5.26
+lightning-utilities==0.6.0.post0
+pytorch-lightning==1.9.1
+wandb==0.13.10
+accelerate==0.17.1
+onnx==1.13.1
+onnxruntime==1.14.1
+evaluate==0.4.0
+rouge-score==0.1.2
